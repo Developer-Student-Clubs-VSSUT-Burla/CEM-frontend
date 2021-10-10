@@ -1,11 +1,13 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
-import './index.css'
-import App from './App'
+import React from "react";
+import ReactDOM from "react-dom";
+import { QueryClient, QueryClientProvider } from "react-query";
+import IndexRouter from "./routes";
+
+const client = new QueryClient();
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-)
+  <QueryClientProvider client={client}>
+    <IndexRouter />
+  </QueryClientProvider>,
+  document.getElementById("root")
+);
