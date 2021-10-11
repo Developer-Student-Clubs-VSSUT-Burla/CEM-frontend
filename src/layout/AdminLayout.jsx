@@ -1,9 +1,10 @@
 import { Container } from "@material-ui/core";
+import AdminNavbar from "../components/navbar/AdminNavbar"
 
 const AdminLayout = ({ children }) => {
   return (
     <Container maxWidth={false} disableGutters>
-      {/* Admin <Navbar /> */}
+      <AdminNavbar />
       {children}
       {/*Admin <Footer /> */}
     </Container>
