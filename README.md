@@ -88,9 +88,7 @@ Start the development server
 ```bash
   npm run dev
 ```
-
-
-  ## 🎨 Color Reference
+## 🎨 Color Reference
 
 | Color             |Color Name | Hex Code                                                               |
 | ----------------- |------------ | ------------------------------------------------------------------ |
@@ -104,9 +102,9 @@ Start the development server
 
 Contributions are always welcome!
 
-See **[contributing.md](./contributing.md)** for ways to get started.
+See **[contribution.md](./contribution.md)** for ways to get started.
 
-**NOTE:** Please adhere to this project's [code of conduct](https://github.com/Developer-Student-Clubs-VSSUT-Burla/CEM-frontend/blob/main/contributing.md#code-of-conduct).
+**NOTE:** Please adhere to this project's [code of conduct](https://github.com/Developer-Student-Clubs-VSSUT-Burla/CEM-frontend/blob/main/contribution.md#code-of-conduct).
 
 
 ## Features

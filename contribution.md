@@ -1,4 +1,4 @@
-# Contributing
+# Contribution Guide
 
 When contributing to this repository, please first discuss the change you wish to make via `issue`,
 update on our [Discord server](https://discord.gg/whFTXghqdV), or any other method with the owners of this repository before making a change.
