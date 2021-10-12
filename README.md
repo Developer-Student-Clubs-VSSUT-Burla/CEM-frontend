@@ -1,8 +1,8 @@
 <div align="center">
   <img alt="Logo" src="./RepoAssets/VSSUT.png" width="150" />
+  <h1>VSSUT Events - College Event Management System</h1>
 </div>
 
-# VSSUT Events - A College Event Management System
 
 <div align="center">
 <img src="https://img.shields.io/github/workflow/status/Developer-Student-Clubs-VSSUT-Burla/CEM-frontend/Deploy%20to%20Firebase%20Hosting%20on%20merge/main" />
@@ -32,7 +32,7 @@
 
 Initiated with the incentive to provide a common rostrum to host all college events, College Event Management (CEM) System is basically a platform where people can host their events and promote them for the students within the institute. One has to just create his/her account in CEM, then login to host his/her event and manage it as per his/her requirements. The entire process will save lot of time along with providing a better reach to the participants.
 
-This repository is concerned to the frontend part of the project. CEM frontend provides an adaptive user interface with navigating menus and sliders, along with eye-catching graphics that brings better versatility to the user.
+This repository is concerned with the frontend part of the project. CEM frontend provides an adaptive user interface with navigating menus and sliders, along with eye-catching graphics that brings better versatility to the user.
 
 For those interested in working on the backend part of the project, do checkout the [backend repository](https://github.com/Developer-Student-Clubs-VSSUT-Burla/CEM-backend).
 
@@ -61,7 +61,7 @@ Inspired by Townscript's UI, we aim to have similar  layout for the components. 
 
 ## Hosting
 
-The project is for now hosted by [firebase](https://firebase.google.com/). You can check the live website [here](https://vssut-event.web.app/). In future it will be deployed using [AWS](https://aws.amazon.com/) once the basic layout gets ready.
+The project is hosted on [firebase](https://firebase.google.com/) for now. You can check the live website [here](https://vssut-event.web.app/). In future it will be deployed using [AWS](https://aws.amazon.com/) once the basic layout gets ready.
 
 ## 🛠 Installation & Set Up
 
