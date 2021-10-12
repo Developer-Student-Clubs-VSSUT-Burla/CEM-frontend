@@ -45,21 +45,15 @@ For those interested in working on the backend part of the project, do checkout 
 Inspired by Townscript's UI, we aim to have similar  layout for the components. New UI section will be added but as a whole the basic schema would stay the same.
 
 
-## Tech Stack Used
+## ⚙ Tech Stack Used
 
-**Client Side:**
-- [React](https://reactjs.org/)
-- [MaterialUI](https://mui.com/)
-- [Hooks](https://reactjs.org/docs/hooks-reference.html)
+|Client |Server |Database |
+|-------|-------|---------|
+|[React](https://reactjs.org/)  |[Node](https://nodejs.org/en/) |[mongoDB](https://www.mongodb.com/) |
+|[MaterialUI](https://mui.com/) |[Express](https://expressjs.com/) |
+|[Hooks](https://reactjs.org/docs/hooks-reference.html) |
 
-**Server Side:**
-- [Node](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-
-**Database:**
-- [mongoDB](https://www.mongodb.com/)
-
-## Hosting
+## 📡 Hosting
 
 The project is hosted on [firebase](https://firebase.google.com/) for now. You can check the live website [here](https://vssut-event.web.app/). In future it will be deployed using [AWS](https://aws.amazon.com/) once the basic layout gets ready.
 
@@ -98,7 +92,7 @@ Start the development server
 | Color 2 | Caribbean Green |![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) `#00d1a0` |
 
 
-## How to Contribute
+## 🖊 How to Contribute
 
 Contributions are always welcome!
 
@@ -107,7 +101,7 @@ See **[contribution.md](./contribution.md)** for ways to get started.
 **NOTE:** Please adhere to this project's [code of conduct](https://github.com/Developer-Student-Clubs-VSSUT-Burla/CEM-frontend/blob/main/contribution.md#code-of-conduct).
 
 
-## Features
+## ✨ Features
 
 - Create and Manage Event
 - Email Integration
@@ -115,16 +109,16 @@ See **[contribution.md](./contribution.md)** for ways to get started.
 - calendar Scheduling
 - Display Events from various colleges
 
-## Acknowledgements
+## 📢 Acknowledgements
 The project has been inspired by various event management sites. Few of them are listed below
  - [Townscript](https://www.townscript.com/in/online)
  - [EventBrite](https://www.eventbrite.com/)
 
 
-## Support, Suggestion, Updates
+## ⚒ Support, Suggestion, Updates
 
 Join our Discord server to get regular updates, quick support and better guidance.  [Join Now](https://discord.gg/whFTXghqdV)
 
-## License
+## 📜 License
 
 ![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
