@@ -75,7 +75,7 @@ const Header = (props) => {
                   <Drawer sections={["1", "2"]} />
                 ) : (
                 <Link to="#" className={classes.subscribeButton}>
-                    PROFILE
+                    Profile
                   </Link>
                 )}
                 <Box>
