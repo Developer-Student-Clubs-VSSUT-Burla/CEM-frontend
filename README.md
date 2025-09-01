@@ -122,3 +122,6 @@ Join our Discord server to get regular updates, quick support and better guidanc
 ## 📜 License
 
 ![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
+
+
+<!-- Security scan triggered at 2025-09-02 01:23:58 -->
